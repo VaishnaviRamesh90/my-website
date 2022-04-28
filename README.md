@@ -10,4 +10,6 @@ This is rebase change committed in remote
 
 
 This change is made on GitHUB
-Only change to website
+
+NEw change made on GitHUB
+Both changes are merged
